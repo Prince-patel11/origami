@@ -1,0 +1,68 @@
+body{
+  background-color:Lightblue;
+}
+h1{
+ color:blue;
+
+}
+h2{
+  color:darkgoldenrod;
+}
+img{
+  width:300px;
+  height:300px;
+  border: 2px solid blue;
+  padding:3px;
+  border-radius:20px;
+}
+#hobby{
+  font-family: "Asimovian", sans-serif;
+
+  font-size:20px;
+  text-align:center;
+    
+}
+#footer{
+background-color:lightgrey;
+color:darkgrey;
+font-family: "Asimovian", sans-serif;
+text-align:center;
+padding:20px;
+}
+.container{
+padding:10px;
+}
+@media screen and (max-width:600px){
+body{
+  background-color:Lightblue;
+}
+h1{
+ color:blue;
+
+}
+h2{
+  color:darkgoldenrod;
+}
+img{
+  width:300px;
+  height:300px;
+  border: 2px solid blue;
+  padding:3px;
+  border-radius:20px;
+}
+#hobby{
+  font-family: "Asimovian", sans-serif;
+
+  font-size:20px;
+  text-align:center;
+    
+}
+#footer{
+background-color:lightgrey;
+color:darkgrey;
+font-family: "Asimovian", sans-serif;
+text-align:center;
+padding:20px;
+}
+
+}
